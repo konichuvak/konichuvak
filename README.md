@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="./pi.gif" />
+<img align="center" alt="GIF" src="https://github.com/konichuvak/konichuvak/blob/master/pi.gif" />
 <!--
 **konichuvak/konichuvak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
